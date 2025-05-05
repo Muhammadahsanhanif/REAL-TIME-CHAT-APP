@@ -18,24 +18,7 @@ function Usersidebar() {
             <Usersection/>
             <Usersection/>
             <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
-            <Usersection/>
+           
         </div>
         <div className="flex items-center justify-between px-3 py-2">
       <div className="avatar">

@@ -1,6 +1,6 @@
 import React from "react";
 
-const User = () => {
+const Usersection = () => {
   return (
     <div className="flex gap-5 items-center">
       <div className="indicator">
@@ -19,4 +19,4 @@ const User = () => {
   );
 };
 
-export default User;
+export default Usersection;
